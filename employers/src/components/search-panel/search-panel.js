@@ -1,4 +1,5 @@
-import './search-panel.css'
+import './search-panel.css';
+
 
 const SearchPanel = () => {
     return (
